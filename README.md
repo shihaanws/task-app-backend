@@ -23,4 +23,10 @@ A simple task management application built with Node.js, Express, and MongoDB. T
 1. Clone the repository:
 
    ```bash
-   git clone [ https://github.com/yourusername/task-management-app.git](https://github.com/shihaanws/task-app-backend)
+   git clone https://github.com/shihaanws/task-app-backend
+
+1. Install and Run:
+
+   ```bash
+   npm install
+   node server.js
